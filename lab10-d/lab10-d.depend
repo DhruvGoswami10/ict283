@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1752686626 source:c:\users\asus\onedrive\documents\mu\ict283\lab10-d\main.cpp
+	"bst.h"
+	<iostream>
+
+1752686543 c:\users\asus\onedrive\documents\mu\ict283\lab10-d\bst.h
+	<iostream>
+
+1752686594 source:c:\users\asus\onedrive\documents\mu\ict283\lab10-d\testbst.cpp
+	"bst.h"
+	<iostream>
+	<vector>
+
+1752686626 source:c:\users\asus\onedrive\documents\mu\ict283\lab10-d\example.cpp
+	"bst.h"
+	<iostream>
+
