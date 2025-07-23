@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1748953764 source:c:\users\asus\onedrive\documents\mu\ict283\lab11-demo\date.cpp
+	"date.h"
+	<sstream>
+
+1750432664 c:\users\asus\onedrive\documents\mu\ict283\lab11-demo\date.h
+	<string>
+
+1753198169 source:c:\users\asus\onedrive\documents\mu\ict283\lab11-demo\statistics.cpp
+	"statistics.h"
+	<cmath>
+
+1753198123 c:\users\asus\onedrive\documents\mu\ict283\lab11-demo\statistics.h
+	"vector.h"
+
+1750344434 c:\users\asus\onedrive\documents\mu\ict283\lab11-demo\vector.h
+	<cassert>
+
+1750229852 source:c:\users\asus\onedrive\documents\mu\ict283\lab11-demo\time.cpp
+	"time.h"
+	<sstream>
+	<iomanip>
+
+1750432648 c:\users\asus\onedrive\documents\mu\ict283\lab11-demo\time.h
+	<string>
+
+1753198238 source:c:\users\asus\onedrive\documents\mu\ict283\lab11-demo\analyzeweather.cpp
+	"analyzeWeather.h"
+	"statistics.h"
+
+1753198205 c:\users\asus\onedrive\documents\mu\ict283\lab11-demo\analyzeweather.h
+	"vector.h"
+	"weatherRecord.h"
+	"map.h"
+	"bst.h"
+	<string>
+
+1750432624 c:\users\asus\onedrive\documents\mu\ict283\lab11-demo\weatherrecord.h
+	"date.h"
+	"time.h"
+
+1753197128 c:\users\asus\onedrive\documents\mu\ict283\lab11-demo\map.h
+	"bst.h"
+
+1753197093 c:\users\asus\onedrive\documents\mu\ict283\lab11-demo\bst.h
+	<iostream>
+
+1750420394 source:c:\users\asus\onedrive\documents\mu\ict283\lab11-demo\loadweatherdata.cpp
+	"loadWeatherData.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	<string>
+	<cstdlib>
+
+1750432606 c:\users\asus\onedrive\documents\mu\ict283\lab11-demo\loadweatherdata.h
+	"vector.h"
+	"weatherRecord.h"
+	<string>
+
+1753198308 source:c:\users\asus\onedrive\documents\mu\ict283\lab11-demo\menu.cpp
+	"menu.h"
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cmath>
+
+1753198273 c:\users\asus\onedrive\documents\mu\ict283\lab11-demo\menu.h
+	"analyzeWeather.h"
+	<string>
+
+1750410168 source:c:\users\asus\onedrive\documents\mu\ict283\lab11-demo\weatherrecord.cpp
+	"WeatherRecord.h"
+
+1753201477 source:c:\users\asus\onedrive\documents\mu\ict283\lab11-demo\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"vector.h"
+	"weatherRecord.h"
+	"loadWeatherData.h"
+	"analyzeWeather.h"
+	"menu.h"
+	"Map.h"
+	"bst.h"
+	"statistics.h"
+
