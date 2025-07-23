@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1750366084 source:c:\users\asus\downloads\assignment1\analyzeweather.cpp
+	"analyzeWeather.h"
+	"statistics.h"
+
+1750432596 c:\users\asus\downloads\assignment1\analyzeweather.h
+	"vector.h"
+	"weatherRecord.h"
+	<string>
+
+1750344434 c:\users\asus\downloads\assignment1\vector.h
+	<cassert>
+
+1750432625 c:\users\asus\downloads\assignment1\weatherrecord.h
+	"date.h"
+	"time.h"
+
+1750432664 c:\users\asus\downloads\assignment1\date.h
+	<string>
+
+1750432648 c:\users\asus\downloads\assignment1\time.h
+	<string>
+
+1750432547 c:\users\asus\downloads\assignment1\statistics.h
+	"vector.h"
+
+1748953764 source:c:\users\asus\downloads\assignment1\date.cpp
+	"date.h"
+	<sstream>
+
+1750432524 source:c:\users\asus\downloads\assignment1\main.cpp
+	<iostream>
+	"vector.h"
+	"weatherRecord.h"
+	"loadWeatherData.h"
+	"analyzeWeather.h"
+	"menu.h"
+
+1750432607 c:\users\asus\downloads\assignment1\loadweatherdata.h
+	"vector.h"
+	"weatherRecord.h"
+	<string>
+
+1750432562 c:\users\asus\downloads\assignment1\menu.h
+	"analyzeWeather.h"
+	<string>
+
+1750368574 source:c:\users\asus\downloads\assignment1\menu.cpp
+	"menu.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1750350733 source:c:\users\asus\downloads\assignment1\statistics.cpp
+	"statistics.h"
+	<cmath>
+
+1750229852 source:c:\users\asus\downloads\assignment1\time.cpp
+	"time.h"
+	<sstream>
+	<iomanip>
+
+1750410168 source:c:\users\asus\downloads\assignment1\weatherrecord.cpp
+	"WeatherRecord.h"
+
+1750420395 source:c:\users\asus\downloads\assignment1\loadweatherdata.cpp
+	"loadWeatherData.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	<string>
+	<cstdlib>
+
+1750366084 source:c:\users\asus\onedrive\documents\mu\ict283_assignment1_dhruv_goswami_35373785\ict283_assignment1_dhruv_goswami_35373785\assignment1\analyzeweather.cpp
+	"analyzeWeather.h"
+	"statistics.h"
+
+1750432596 c:\users\asus\onedrive\documents\mu\ict283_assignment1_dhruv_goswami_35373785\ict283_assignment1_dhruv_goswami_35373785\assignment1\analyzeweather.h
+	"vector.h"
+	"weatherRecord.h"
+	<string>
+
+1750344434 c:\users\asus\onedrive\documents\mu\ict283_assignment1_dhruv_goswami_35373785\ict283_assignment1_dhruv_goswami_35373785\assignment1\vector.h
+	<cassert>
+
+1750432624 c:\users\asus\onedrive\documents\mu\ict283_assignment1_dhruv_goswami_35373785\ict283_assignment1_dhruv_goswami_35373785\assignment1\weatherrecord.h
+	"date.h"
+	"time.h"
+
+1750432664 c:\users\asus\onedrive\documents\mu\ict283_assignment1_dhruv_goswami_35373785\ict283_assignment1_dhruv_goswami_35373785\assignment1\date.h
+	<string>
+
+1750432648 c:\users\asus\onedrive\documents\mu\ict283_assignment1_dhruv_goswami_35373785\ict283_assignment1_dhruv_goswami_35373785\assignment1\time.h
+	<string>
+
+1750432546 c:\users\asus\onedrive\documents\mu\ict283_assignment1_dhruv_goswami_35373785\ict283_assignment1_dhruv_goswami_35373785\assignment1\statistics.h
+	"vector.h"
+
+1748953764 source:c:\users\asus\onedrive\documents\mu\ict283_assignment1_dhruv_goswami_35373785\ict283_assignment1_dhruv_goswami_35373785\assignment1\date.cpp
+	"date.h"
+	<sstream>
+
+1750420394 source:c:\users\asus\onedrive\documents\mu\ict283_assignment1_dhruv_goswami_35373785\ict283_assignment1_dhruv_goswami_35373785\assignment1\loadweatherdata.cpp
+	"loadWeatherData.h"
+	<fstream>
+	<sstream>
+	<iostream>
+	<string>
+	<cstdlib>
+
+1750432606 c:\users\asus\onedrive\documents\mu\ict283_assignment1_dhruv_goswami_35373785\ict283_assignment1_dhruv_goswami_35373785\assignment1\loadweatherdata.h
+	"vector.h"
+	"weatherRecord.h"
+	<string>
+
+1750432524 source:c:\users\asus\onedrive\documents\mu\ict283_assignment1_dhruv_goswami_35373785\ict283_assignment1_dhruv_goswami_35373785\assignment1\main.cpp
+	<iostream>
+	"vector.h"
+	"weatherRecord.h"
+	"loadWeatherData.h"
+	"analyzeWeather.h"
+	"menu.h"
+
+1750432562 c:\users\asus\onedrive\documents\mu\ict283_assignment1_dhruv_goswami_35373785\ict283_assignment1_dhruv_goswami_35373785\assignment1\menu.h
+	"analyzeWeather.h"
+	<string>
+
+1750368574 source:c:\users\asus\onedrive\documents\mu\ict283_assignment1_dhruv_goswami_35373785\ict283_assignment1_dhruv_goswami_35373785\assignment1\menu.cpp
+	"menu.h"
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1750350732 source:c:\users\asus\onedrive\documents\mu\ict283_assignment1_dhruv_goswami_35373785\ict283_assignment1_dhruv_goswami_35373785\assignment1\statistics.cpp
+	"statistics.h"
+	<cmath>
+
+1750229852 source:c:\users\asus\onedrive\documents\mu\ict283_assignment1_dhruv_goswami_35373785\ict283_assignment1_dhruv_goswami_35373785\assignment1\time.cpp
+	"time.h"
+	<sstream>
+	<iomanip>
+
+1750410168 source:c:\users\asus\onedrive\documents\mu\ict283_assignment1_dhruv_goswami_35373785\ict283_assignment1_dhruv_goswami_35373785\assignment1\weatherrecord.cpp
+	"WeatherRecord.h"
+
