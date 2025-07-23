@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1752006084 source:c:\users\asus\onedrive\documents\mu\ict283\lab-9b\date\date.cpp
+	"date.h"
+	<sstream>
+
+1752005925 c:\users\asus\onedrive\documents\mu\ict283\lab-9b\date\date.h
+	<string>
+
+1752048238 source:c:\users\asus\onedrive\documents\mu\ict283\lab-9b\date\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"../Bst.h"
+	"date.h"
+
+1752048021 c:\users\asus\onedrive\documents\mu\ict283\lab-9b\bst.h
+	<iostream>
+
